@@ -1,0 +1,3 @@
+C:/Users/motas/CLionProjects/versleutelde e-mailbox/cmake-build-debug/CMakeFiles/versleutelde_e_mailbox.dir
+C:/Users/motas/CLionProjects/versleutelde e-mailbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/motas/CLionProjects/versleutelde e-mailbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
