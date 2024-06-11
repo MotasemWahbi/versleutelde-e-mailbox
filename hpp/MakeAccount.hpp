@@ -19,6 +19,6 @@ public:
     ~MakeAccount();
 };
 
-
+1
 
 #endif //VERSLEUTELDE_E_MAILBOX_MAKEACCOUNT_HPP

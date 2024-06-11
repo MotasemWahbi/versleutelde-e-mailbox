@@ -36,3 +36,4 @@ void User::setPassword(const std::string& password) {
 }
 
 User::~User() = default;
+1

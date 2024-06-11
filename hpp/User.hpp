@@ -26,6 +26,7 @@ public:
     void setPassword(const std::string& password);
 
     ~User();
+    1
 };
 
 

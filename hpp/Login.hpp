@@ -26,6 +26,6 @@ public:
 
     ~Login();
 };
-
+1
 
 #endif //VERSLEUTELDE_E_MAILBOX_LOGIN_HPP
